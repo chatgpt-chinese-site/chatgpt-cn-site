@@ -1,6 +1,6 @@
 # ChatGPT 中文版：国内访问指南（支持GPT-4o，无需翻墙）【2025年3月更新】
 ---
->更新时间: 2025-03-16
+>更新时间: 2025-05-29
 
 最新 ChatGPT 使用指南，**无需翻墙，轻松使用上 ChatGPT 中文版**~
 
@@ -37,8 +37,8 @@
 
 | ChatGPT镜像网站         | 地址                             | 支持版本           | 免费额度 | 注册方式           | 稳定性  | 功能亮点                |
 |--------------------|----------------------------------|--------------------|----------|--------------------|---------|-------------------------|
-| 一下AI            | [www.yixiaai.com](https://www.yixiaai.com/) | GPT-4、4o、o1      | 有       | 扫码即可       | 高      | 支持 AI绘画、AI助手、AI插件、AI PPT等  |
-| AI智慧岛          | [chat.lify.vip](https://chat.lify.vip/) | GPT-4o、4o mini、o1 | 有       | 扫码即可       | 高      | 支持多模型，AI写作、AI编程、AI办公~  |
+| 一下AI            | [xsimplechat.com](https://xsimplechat.com/) | GPT-4、4o、o1      | 有       | 扫码即可       | 高      | 支持 AI绘画、AI助手、AI插件、AI PPT等  |
+| AI智慧岛          | [chat.lanjing.pro](https://chat.lanjing.pro/) | GPT-4o、4o mini、o1 | 有       | 扫码即可       | 高      | 支持多模型，AI写作、AI编程、AI办公~  |
 | AI工具站       | [yixiaai.cn](https://yixiaai.cn/) | GPT-4、o1           | 有       | 扫码即可      | 高      | 稳定快速，各种AI工具~ |
 | AI指南           | [guide1.lanjing.ai](https://guide1.lanjing.ai/) | GPT-4、o1           | 有       | 扫码即可   | 高      | AI使用指南            |
 | 小鲸鱼AI        | [ai.lansejingyu.com](https://ai.lansejingyu.com/) | GPT-4、4o           | 有       | 扫码即可     | 中      | 界面简洁，易于使用      |
@@ -74,7 +74,7 @@
 
 ## 5. 如何使用 ChatGPT 中文版的方法
 
-1. **选择镜像站点**：选择一个推荐的镜像站点（如 **一下AI ([www.yixiaai.com](https://www.yixiaai.com/))**）。
+1. **选择镜像站点**：选择一个推荐的镜像站点（如 **一下AI ([xsimplechat.com](https://xsimplechat.com/))**）。
 2. **注册使用**：
    - **扫码登录**：微信扫码即可快速访问，无需注册。
    - **免注册体验**：直接输入问题，立即获得智能解答。
